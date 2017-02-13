@@ -1,0 +1,35 @@
+Ans 1
+Various sourecs of Big Data:
+  Social Media
+  Software as a Service(Saas) and cloud applications
+  Archives
+  Business applications
+  Documents
+  
+  
+Ans 2
+3 V's of Big Data:
+  Volume  - Large quantities of data that needs to be processed and stored. 
+  Velocity- The ever increasing speed at which this data is growing. For example take into consideration the large amounts of data  generated daily by Facebook or the stock market.
+  Variety - The different type of data presesnt. From photographs to important document files, every kind is different from each other.
+  
+
+Ans 3
+Horizontal Scaling(Scale-out):
+  Scaling by the means of adding more machines. 
+  Data is basically partitioned and the data load is distributed amongst different machines.
+
+Vertical Scaling(Scale-in):
+  Scaling by the means of adding and expanding the memory storage capacity and CPU. 
+  No more machines are added.
+  
+  
+Ans 4
+Need: 
+To store and sort the gigantic amounts of data Hadoop comes into play. The processing of these complex forms of data often is not so easy. The data is of different types and forms and often requires extensive processing and implementation, which is not possible without Hadoop.
+
+Working:
+Hadoop has two parts- Hadoop Distributed Filesystem (HDFS) and a a data processing framework.
+
+HDFS is the place to store your data until and when it's needed. 
+When something needs to be done with data, Data Processing Framework comes into picture.
